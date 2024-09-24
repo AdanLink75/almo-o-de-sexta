@@ -26,5 +26,3 @@ console.log(areatrapezio(6,17,6));
 let nome=prompt('nome?');
 
 document.write(nome);
-
-parseInt(prompt('nome?'))
