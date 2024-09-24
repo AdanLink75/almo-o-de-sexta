@@ -23,6 +23,12 @@ let areatrapezio=function(num1,num2,num3){
 
 console.log(areatrapezio(6,17,6));
 
-let nome=prompt('nome?');
+let numero=parseInt(prompt('manda um numero'));
+let numeoro1=parseInt(prompt1('+1'));
+let numero2=parseInt(prompt2('+2'));
 
-document.write(nome);
+let quantidade=function(numero,numero2,numeoro1){
+    return numero+numeoro1+numero2;
+}
+
+document.write(quantidade);
