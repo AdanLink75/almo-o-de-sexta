@@ -8,4 +8,4 @@ function multiplicação(num1,num2){
     return num1*num2;
 }
 
-console.log(multiplicação(5,8))
+console.log(multiplicação(6,6))
