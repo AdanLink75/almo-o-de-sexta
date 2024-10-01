@@ -24,27 +24,24 @@ function areatrapezio(num1, num2, num3) {
 console.log(areatrapezio(6,17,6));
 
 let numero=parseInt(prompt('manda um numero'));
-let numeoro1=parseInt(prompt1('+1'));
-let numero2=parseInt(prompt2('+2'));
+let numeoro1=parseInt(prompt('+1'));
+let numero2=parseInt(prompt('+2'));
 
-let quantidade=function(numero,numero2,numeoro1){
-    return numero+numeoro1+numero2;
+function media(x,y,z){
+    return (x+y+z)3;
 }
 
-document.write(quantidade);
-
-let nome=['andrew','caio','marina','mel','felipe_lin','joao','julia','felipe_mayer','arthur','monise','aaron','vinicius','maria','nicolas','luiz','lucas','izabela','giovana','danilo','lais','rhianne']
 
 let i=0;
-while(i<nome.length){
+while(i<['andrew', 'caio', 'marina', 'mel', 'felipe_lin', 'joao', 'julia', 'felipe_mayer', 'arthur', 'monise', 'aaron', 'vinicius', 'maria', 'nicolas', 'luiz', 'lucas', 'izabela', 'giovana', 'danilo', 'lais', 'rhianne'].length){
 console.log(i);
-console.log(nome[i]);
+console.log(['andrew', 'caio', 'marina', 'mel', 'felipe_lin', 'joao', 'julia', 'felipe_mayer', 'arthur', 'monise', 'aaron', 'vinicius', 'maria', 'nicolas', 'luiz', 'lucas', 'izabela', 'giovana', 'danilo', 'lais', 'rhianne'][i]);
 i+1;
 }
 
-for (let i=0; i=nome.length;i++){
+for (let i=0; i=['andrew', 'caio', 'marina', 'mel', 'felipe_lin', 'joao', 'julia', 'felipe_mayer', 'arthur', 'monise', 'aaron', 'vinicius', 'maria', 'nicolas', 'luiz', 'lucas', 'izabela', 'giovana', 'danilo', 'lais', 'rhianne'].length;i++){
     console.log(i);
-    console.log(nome[i]);
+    console.log(['andrew', 'caio', 'marina', 'mel', 'felipe_lin', 'joao', 'julia', 'felipe_mayer', 'arthur', 'monise', 'aaron', 'vinicius', 'maria', 'nicolas', 'luiz', 'lucas', 'izabela', 'giovana', 'danilo', 'lais', 'rhianne'][i]);
 }
 let idade=18;
 if(idade<18){
