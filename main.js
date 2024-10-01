@@ -46,3 +46,11 @@ for (let i=0; i=nome.length;i++){
     console.log(i);
     console.log(nome[i]);
 }
+let idade=18;
+if(idade<18){
+    console.log('ilegal dirijir')
+
+}
+else{
+    console.log('ilegal dirijir')
+}
