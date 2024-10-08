@@ -16,85 +16,56 @@ criaCartao(
 )
 criaCartao(
     'matematica',
-    'se um homem caisse do 13° de cabeça para baixo, quantos ossos iria quebrar e ligamentos iria romper?',
-    'utiliza-se a formula: ((a1+an).q)/2'
+    'se um homem caisse do 13° de cabeça para baixo, quantos ossos iria quebrar e ligamentos iria romper?'
 )
 criaCartao(
     'historia',
-    'após dos eventos da 2 guerra mundial, como ficou Adolf Hitler?',
+    'após dos eventos da 2 guerra mundial, como ficou Adolf Hitler?'
 )
 criaCartao(
     'historia',
-    '',
-    'utiliza-se a formula: ((a1+an).q)/2'
+    'em qual ano o Lula(atua precidente do Brasil) roubou do Brasil?'
 )
 criaCartao(
-    'matematica',
-    'como se calcula a soma dos termos de uma P.A',
-    'utiliza-se a formula: ((a1+an).q)/2'
+    'historia',
+    'quem era a esposa de charlie chaplin?'
+
 )
 criaCartao(
-    'matematica',
-    'como se calcula a soma dos termos de uma P.A',
-    'utiliza-se a formula: ((a1+an).q)/2'
+    'histoia',
+    'quem foi Gilberto Freyre, e como ele impactou na vida de getulio vargas?'
 )
 criaCartao(
-    'matematica',
-    'como se calcula a soma dos termos de uma P.A',
-    'utiliza-se a formula: ((a1+an).q)/2'
+    'portugues',
+    'para oque se usa o §?'
 )
 criaCartao(
-    'matematica',
-    'como se calcula a soma dos termos de uma P.A',
-    'utiliza-se a formula: ((a1+an).q)/2'
+    'portugues',
+    'qual o livro que andrew mais gosta'
 )
 criaCartao(
-    'matematica',
-    'como se calcula a soma dos termos de uma P.A',
-    'utiliza-se a formula: ((a1+an).q)/2'
+    'portugues',
+    'site todos os livros, lugares e mulheres que já foram vivenciados por Machado de Assis'
 )
 criaCartao(
-    'matematica',
-    'como se calcula a soma dos termos de uma P.A',
-    'utiliza-se a formula: ((a1+an).q)/2'
+    'portugues',
+    'qual o estilo de literatura que dj azeitona produz?'
 )
 criaCartao(
-    'matematica',
-    'como se calcula a soma dos termos de uma P.A',
-    'utiliza-se a formula: ((a1+an).q)/2'
+    'arte',
+    'em qual episodio de "Valdir" Andrezitos reclamo sobre mendigos comunistas?'
 )
 criaCartao(
-    'matematica',
-    'como se calcula a soma dos termos de uma P.A',
-    'utiliza-se a formula: ((a1+an).q)/2'
+    'arte',
+    'Em qual video do Gemaplys, Vito, fala sua iconica frase sobre japones?'
 )
 criaCartao(
-    'matematica',
-    'como se calcula a soma dos termos de uma P.A',
-    'utiliza-se a formula: ((a1+an).q)/2'
+    'arte',
+    'como se foi montado a primeira bomba de hidrogenio?',
 )
 criaCartao(
-    'matematica',
-    'como se calcula a soma dos termos de uma P.A',
+    'arte',
+    'Quantas visualizações o Enaldinho tem no video do caça leão? ',
     'utiliza-se a formula: ((a1+an).q)/2'
 )
-criaCartao(
-    'matematica',
-    'como se calcula a soma dos termos de uma P.A',
-    'utiliza-se a formula: ((a1+an).q)/2'
-)
-criaCartao(
-    'matematica',
-    'como se calcula a soma dos termos de uma P.A',
-    'utiliza-se a formula: ((a1+an).q)/2'
-)
-criaCartao(
-    'matematica',
-    'como se calcula a soma dos termos de uma P.A',
-    'utiliza-se a formula: ((a1+an).q)/2'
-)
-criaCartao(
-    'matematica',
-    'como se calcula a soma dos termos de uma P.A',
-    'utiliza-se a formula: ((a1+an).q)/2'
-)
+
