@@ -28,7 +28,7 @@ let numeoro1=parseInt(prompt('+1'));
 let numero2=parseInt(prompt('+2'));
 
 function media(x,y,z){
-    return (x+y+z)3;
+    return (x+y+z);
 }
 
 
@@ -50,4 +50,22 @@ if(idade<18){
 }
 else{
     console.log('ilegal dirijir')
+}
+
+function criaCartao(categoria, pergunta, resposta){
+    let container = document.getElementById('container')
+    let cartao = document.createElement('article')
+    cartao.className='cartao';
+    cartao.innerHTML = `
+    <div class="conteudo-cartao">
+    <h3>categoria</h3>
+    <div class="conteudo-cartao">
+        <p>pergunta</p>
+    </div>
+    <div class="conteudo-cartao">
+        <p>resposta</p>
+    </div>
+</div>
+    `
+    container.appendChild(cartao)
 }
